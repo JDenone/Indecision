@@ -27,7 +27,7 @@
     "validator": "8.0.0",
     "webpack": "^4.35.0",
     "webpack-dev-server": "3.4",
-    "yarn": "^1.16.0"
+    "yarn": "^1.22.0"
   },
   "author": "JDenone",
   "devDependencies": {
